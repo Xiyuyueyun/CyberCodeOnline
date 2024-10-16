@@ -8090,11 +8090,11 @@
 		"petShop": {
 			"defaultLines": {
 				"trans": [
-					"Hey, choom! Neon Paws is for the brave. These sprites need your daily grind. Ready to dive in?",
-					"Lookin' sharp, netrunner! Here, pets are more than code, they need your daily hack to thrive.",
-					"What's up, street samurai? Partner with a survivor. Without your daily deeds, they're zeroed.",
-					"Edge runner, eh? This is where tech meets heart. Ignore them, and they vanish into the net. Daily care, got it?",
-					"Cyberdeck in hand, heart on sleeve? Our critters need that daily touch or they'll fade into the static."
+					"嘿，伙计！只有真正的勇者才能掌控霓虹之爪。这些小家伙们每天都需要你投入大量精力。你准备好了吗？",
+					"看起来不错嘛，网络冲浪者！这里的宠物可不只是代码，它们还需要你每天的维护。",
+					"怎么了，街头战士？和其他幸存者合作吧。没有你们每天的付出，它们就会消失。",
+					"边际冲浪者，哈？这里是科技与情感的交汇处。忽视它们，它们就会消失在网络中。记得每天的关心，明白了吗？",
+					"手持网络终端，心中热情无边？我们的这些小可爱需要每天的关心，否则它们就会消失在嘈杂的电波中。"
 				],
 				"eng": [
 					"Hey, choom! Neon Paws is for the brave. These sprites need your daily grind. Ready to dive in?",
@@ -8377,7 +8377,7 @@
 		},
 		"bulkCrafting": {
 			"name": {
-				"trans": "大量制作",
+				"trans": "批量制作",
 				"eng": "Bulk Crafting"
 			}
 		},
@@ -8471,11 +8471,11 @@
 			"vars": [
 				"minutes"
 			],
-			"trans": "排行榜清单每${minutes}分钟更新",
+			"trans": "排行榜每${minutes}分钟更新",
 			"eng": "Leaderboard listing updates every ${minutes} minutes"
 		},
 		"noPlayers": {
-			"trans": "目前该排行榜中没有球员",
+			"trans": "目前排行榜上没有玩家",
 			"eng": "Currently No Players in this Leaderboard"
 		},
 		"age": {
@@ -9207,7 +9207,7 @@
 			"eng": "Share"
 		},
 		"buttonTut": {
-			"trans": "您觉得您足够强大吗？ 来挑战在地下城中更强大的敌人吧！ \r\n                         记得买一些治疗物品！ 在地下城中您的血量不会在战斗后恢复！",
+			"trans": "您觉得自己足够强大吗？ 来地下城挑战更强大的敌人吧！ \r\n                         带上补给品！在地下城中，战斗后血量不会自动恢复！",
 			"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
 		},
 		"cleared": {
@@ -9390,7 +9390,7 @@
 	},
 	"mobile": {
 		"returnToAppMessage": {
-			"trans": "与服务器同步..",
+			"trans": "正在与服务器同步..",
 			"eng": "Syncing with server.."
 		}
 	},
@@ -9529,7 +9529,7 @@
 			"eng": "Can't send street cred now"
 		},
 		"description2": {
-			"trans": "您每天只能发送一个街道声望。 而且您必须是10级或更高。",
+			"trans": "您每天只能发送一个街道声望，并且您必须达到10级或以上。",
 			"eng": "You can only send one street cred per day. and you must be level 10 or above."
 		},
 		"confirmText": {
@@ -9700,7 +9700,7 @@
 		},
 		"freeButton": {
 			"text": {
-				"trans": "免费索赔",
+				"trans": "免费领取",
 				"eng": "Claim for free"
 			}
 		},
@@ -9814,7 +9814,7 @@
 				"eng": "Gang Bounty"
 			},
 			"description": {
-				"trans": "接受这一任务并击败一个未知帮派的帮派成员获得奖励",
+				"trans": "接受这一任务并击败一个未知帮派的帮派成员以获得奖励",
 				"eng": "Accepting this quest and defeat gang members of a unknown gang to receive rewards"
 			},
 			"reward": {
@@ -10043,7 +10043,7 @@
 				"eng": "Top Up Reward"
 			},
 			"description": {
-				"trans": "本月充值单位可获得特别奖励！",
+				"trans": "本月充值Units可获得特别奖励！",
 				"eng": "Get special rewards when you top-up Units during this month!"
 			},
 			"button": {
@@ -10362,7 +10362,7 @@
 			"eng": "Anniversary Update!"
 		},
 		"desc1": {
-			"trans": "当您打开板条箱时，Techno Thief很少会在地牢中产生，它们会掉落更好的战利品，包括更高的Epic物品的机会",
+			"trans": "当您打开板条箱时，Techno Thief有较低的概率在地牢中出现，它们会掉落更好的战利品，甚至是有机会掉落更稀有的Epic物品",
 			"eng": "Techno Thief will spawn rarely in dungeon when you open crates, they drop better loots, including higher chance of epic items"
 		},
 		"desc2": {
@@ -10439,7 +10439,7 @@
 			"eng": "You will receive the rewards regardless of your answer"
 		},
 		"question1": {
-			"trans": "你喜欢豹子头零冲也能玩(free to win)的游戏吗？",
+			"trans": "你认为零氪玩家也应该有很好的游戏体验吗？（比如战斗力不弱于氪金玩家）",
 			"eng": "Do you like free to win games?"
 		},
 		"question2": {
@@ -10767,14 +10767,14 @@
 			"eng": "This title will never expire.\\nIt stays with your account forever."
 		},
 		"monthlySubscription": {
-			"trans": "每月订阅",
+			"trans": "月度订阅",
 			"eng": "Monthly Subscription"
 		},
 		"payPalPricePerMonth": {
 			"vars": [
 				"price"
 			],
-			"trans": "${price}每月美元",
+			"trans": "每月${price}美元",
 			"eng": "${price} USD Per Month"
 		},
 		"inAppPurchaseDescription": {
@@ -11111,7 +11111,7 @@
 				"event",
 				"items"
 			],
-			"trans": "${event}充满奖励${items}已发送到您的收件箱",
+			"trans": "${event}充值奖励${items}已发送到您的收件箱",
 			"eng": " ${event} top up reward ${items} has been sent to your inbox"
 		}
 	},
@@ -11144,7 +11144,7 @@
 	"player": {
 		"error": {
 			"deleteWhileMuted": {
-				"trans": "当您被静音时，您无法删除帐户。",
+				"trans": "当您被禁言时，您无法删除帐户。",
 				"eng": "You can't delete your account when you are muted."
 			},
 			"deleteAccountTooEarly": {
@@ -11193,7 +11193,7 @@
 			"eng": "`You were killed by ${enemy}"
 		},
 		"levelTooHigh": {
-			"trans": "您的水平太高，无法在此处执行此操作，请尝试在下一个区域中进行。",
+			"trans": "您的等级太高，无法在此处执行此操作，请尝试在下一个区域中进行。",
 			"eng": "Your level is too high to perform this action here, try to do it in the next zone."
 		},
 		"reviewSubmitted": {
